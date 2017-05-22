@@ -4,4 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+We are a Python meetup group.
+
+## Organizers #
+
+* Cory Taylor
+* John F Marion
+* Reggie
